@@ -31,4 +31,4 @@
 ### Q1
 - 《剑指offer》 80%，精读，刷题
 - 《Spark官方文档》 50%，精读，阅读Core,SparKSQL
-- 《Hadoop实战》10% 精读 hive
+- 《Hadoop实战》30% 精读 hive,Hbase,yarn
