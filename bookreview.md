@@ -7,4 +7,6 @@
 ## [5. 皮囊](https://github.com/tygxy/booklist/blob/master/PiNang.md)
 ## [6. 看见](https://github.com/tygxy/booklist/blob/master/KanJian.md)
 ## [7. 月亮与六便士](https://github.com/tygxy/booklist/blob/master/TheMoonAndSixpence.md)
-## [8. 明朝那些事儿一](https://github.com/tygxy/booklist/blob/master/MingChaoNaXieShiEr1.md)
+## [8. 明朝那些事儿一](https://github.com/tygxy/booklist/blob/master/MingChaoNaXieShiEr1.md）
+## [9. 大明王朝1566](https://github.com/tygxy/booklist/blob/master/DaMingWangChao.md）
+## [10. 明朝那些事儿二](https://github.com/tygxy/booklist/blob/master/MingChaoNaXieShiEr2.md)
